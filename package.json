@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "pratice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "aaa"
+  },
+  "author": "jaehwa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2"
+  }
+}
